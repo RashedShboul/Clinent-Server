@@ -1,8 +1,11 @@
-Java Client-Server Application
+<h1>Java Client-Server Application</h1>
+
 This Java client-server application is designed to help you learn about sockets, streams, and buffers. The application consists of two main components:
 
-    Server: A server program that listens for incoming client connections, receives messages from clients, processes them, and sends responses back.
-    Client: A client program that connects to the server, sends messages to the server, and displays the responses received from the server.
+    Server: A server program that listens for incoming client connections, receives messages from clients, 
+    processes them, and sends responses back.
+    Client: A client program that connects to the server, sends messages to the server, 
+    and displays the responses received from the server.
 
 Features
 
